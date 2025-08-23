@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebasConMono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe8bc7f048b129cfa57bf07da0214317c2908629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c380bbb32b5a85f9e8f0aeb99da5e2e902a202")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebasConMono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebasConMono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
