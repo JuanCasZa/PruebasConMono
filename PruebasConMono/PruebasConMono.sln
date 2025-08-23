@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasConMono", "PruebasConMono.csproj", "{7AE1717C-E675-0638-5CD1-70D3B113B75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE1717C-E675-0638-5CD1-70D3B113B75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE1717C-E675-0638-5CD1-70D3B113B75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE1717C-E675-0638-5CD1-70D3B113B75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE1717C-E675-0638-5CD1-70D3B113B75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36444C8B-8FFB-4B92-93E2-DBBFC8E9169C}
+	EndGlobalSection
+EndGlobal
